@@ -1,0 +1,3 @@
+[submodule "md-mobile-ios"]
+	path = md-mobile-ios
+	url = https://github.com/manonthemoon42/moodress-ios.git
